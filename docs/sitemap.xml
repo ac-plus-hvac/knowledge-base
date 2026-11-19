@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/</loc></url>
+  <url><loc>https://ac-plus-hvac.github.io/knowledge-base/about-this-guide.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/glossary.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/electrical-disconnect-switch.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/duct-sealing.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/installation-safety-measures.html</loc></url>
+  <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/hvac-safety-standards.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/manufacturer-warranty-registration.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/start-capacitor.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/foul-ac-odors.html</loc></url>
@@ -13,8 +15,11 @@
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/ductwork-modification.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/local-building-codes.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/air-conditioning-replacement.html</loc></url>
+  <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/condenser-unit.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/dirty-condenser-coil.html</loc></url>
+  <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/frozen-evaporator-coil.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/heating-installation.html</loc></url>
+  <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/hvac-maintenance-plan.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/load-calculation.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/office-rancho-cucamonga.html</loc></url>
   <url><loc>https://ac-plus-hvac.github.io/knowledge-base/articles/residential-hvac.html</loc></url>
